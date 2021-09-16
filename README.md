@@ -1,6 +1,6 @@
 # 1
 Readability counts.
-程式的可讀性是很重要的。
+程式是否可讀，是很重要的。
 
 # 2
 Simple is better than complex.
